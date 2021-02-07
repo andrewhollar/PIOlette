@@ -4,5 +4,5 @@ PIOlette is a creativity support tool that emphasizes the exploration of the HSB
 
 The circuit setup for this project can be found here: https://www.tinkercad.com/things/1z5vT478dME-glorious-blad/editel?tenant=circuits.
 
-- Piolette folder contains 4 Processing Sketches
+- PIOlette directory contains 4 Processing Sketches
 - PIOlette.ino contains the Arduino Sketch
